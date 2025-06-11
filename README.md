@@ -6,7 +6,7 @@ A simple and beginner-friendly Spring Boot project that demonstrates how to buil
 
 - CRUD operations using REST API
 - Layered architecture (Controller, Service, Repository)
-- Uses Spring Boot 3.x
+- Uses Spring Boot 3.5
 - PostgreSQL configuration
 - JSON request/response handling with Jackson
 - Exception handling and validation
